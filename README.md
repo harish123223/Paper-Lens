@@ -4,10 +4,10 @@
 
 ---
 
-## 📺 Demo
+## 📺 Video
 
 <!-- Add your demo video link here -->
-> [**[Demo Video Link — Coming Soon]**](https://youtu.be/UWrrrCvHjZ8?si=yTZy6ZkKURMA9k8R)
+> [**[Video-Link]**](https://youtu.be/UWrrrCvHjZ8?si=yTZy6ZkKURMA9k8R)
 
 ---
 
