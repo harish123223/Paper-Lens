@@ -111,7 +111,7 @@ npm run dev
 
 ### 3. Open the App
 
-Visit **http://localhost:5173** in your browser.
+Visit http://paper-lens-iair.vercel.app/ in your browser.
 
 ---
 
